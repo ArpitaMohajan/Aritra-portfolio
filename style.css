@@ -1,9 +1,28 @@
 body{
-    font-family:'Source Sans Pro', sans-serif; 
+    font-family:'Source Sans Pro', sans-serif;
+
 }
 h2{
     font: 50px;
 }
 .orange{
     color:crimson;
+}
+section{
+    display: flex;
+    padding-left: 10%;
+}
+.half-width{
+    width: 150%;
+}
+.link-Button{
+    text-decoration: none;
+    background-image: linear-gradient(blue ,orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
 }
