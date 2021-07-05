@@ -30,3 +30,7 @@ section{
 .img2 {
     width: 70%;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
