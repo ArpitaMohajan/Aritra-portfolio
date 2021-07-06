@@ -26,14 +26,10 @@ section{
 }
 .top-banner{
     background-image:url(images/top-banner.png);
-    background-repeat: no-repeat;
 }
 .img2 {
     width: 70%;
 }
 .dream-big{
     background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right ;
-    padding: 20px;
-}
+    background-repeat: no-repeat
